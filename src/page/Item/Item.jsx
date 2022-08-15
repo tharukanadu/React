@@ -1,6 +1,8 @@
 import React from 'react'
 import click from '../../assets/img/tick.jpg';
 import './Item.css'
+import  './javascript/main.js'
+
 
 const Item=()=> {
   return (
@@ -27,6 +29,15 @@ const Item=()=> {
   )
 }
 
+
+<script>
+let popup = document.getElementById("popup");
+function name(params) {
+  
+}
+
+
+</script>
 
 
 
